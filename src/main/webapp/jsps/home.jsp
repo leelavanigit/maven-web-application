@@ -9,9 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Limited. Bengaluru,Karnataka,India </h1>
+<h1 align="center">Welcome to Mithun Technologies Private Limited - poll SCM Demo </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
-<hr>
+	<h1 align="center">Mithun Technologies Bhaskar sir is a good mentor </h1>
+	<hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
